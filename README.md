@@ -44,10 +44,10 @@ TODO
 - [x] Criar
 - [x] Apagar
 - [x] Ler
-- [] Actualizar
-- [] Logs
-- [] Transações
-- [] Habilitar CORS
+- [ ] Actualizar
+- [ ] Logs
+- [ ] Transações
+- [ ] Habilitar CORS
 
 #### CORS 
 A comunicação com a api está condicionada por políticas de segurança do Flutter Web para 
