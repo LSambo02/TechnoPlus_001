@@ -40,14 +40,14 @@ As funções a desempenhar
 
 
 TODO
-[x] Validação dos campos
-[x] Criar
-[x] Apagar
-[x] Ler
-[] Actualizar
-[] Logs
-[] Transações
-[] Habilitar CORS
+- [x] Validação dos campos
+- [x] Criar
+- [x] Apagar
+- [x] Ler
+- [] Actualizar
+- [] Logs
+- [] Transações
+- [] Habilitar CORS
 
 #### CORS 
 A comunicação com a api está condicionada por políticas de segurança do Flutter Web para 
